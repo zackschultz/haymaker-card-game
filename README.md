@@ -38,7 +38,7 @@ The attacker starts by using one of the following moves. If the attacker cannot 
 
 - Normal Attack: The attacker chooses a single card from their hand and plays it face up. The strength of the attack is the number on the card (Ace = 1).
 - Haymaker: The attacker chooses two or more cards from their hand with the same suit and plays them face up. The strength of the haymaker is the sum of the numbers on the cards (Ace = 1). There is no limit to the number of cards played for a haymaker so long as they are all the same suit.
-- Taunt (Pass): The attacker may only use this move if they attacked last turn (normal attack or haymaker). If the draw pile is not empty, the attacker draws two cards, chooses one to add to their hand, and gives the other to the defender. Finally, players switch roles and the next turn immediately begins.
+- Pass: The attacker may only use this move if they attacked last turn (normal attack or haymaker). If the draw pile is not empty, the attacker draws two cards, chooses one to add to their hand, and gives the other to the defender. Finally, players switch roles and the next turn immediately begins.
 
 ### 3. Defend
 
